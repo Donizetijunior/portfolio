@@ -5,7 +5,7 @@
 
 Projeto construido junto ao evento NEXT LEVEL Week da Rocketseat
 
-[Acesse aqui :] (https://juniormksfoz2.github.io/portifolo/)
+[Acesse aqui :] (https://juniormksfoz2.github.io/portifolio/)
 
 
 
